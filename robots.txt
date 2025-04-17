@@ -1,0 +1,5 @@
+robots.txt create by Bibin Tom Joseph for HoodHat SEO
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://hoodhat-seo-poc.vercel.app/sitemap.xml
